@@ -86,7 +86,7 @@ a{
     width: 100%;
     background-repeat:no-repeat;
     z-index:-4;
-    background:url('../Html/images/backimg3.jpg')  center center/cover;
+    background:url('images/backimg3.jpg')  center center/cover;
 top:0px;
 left:0px;
 z-index:-1;
